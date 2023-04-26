@@ -1,11 +1,11 @@
 ### Olá, meu nome é  <strong>Gustavo Sena</strong> 👋
 
 <a href="https://github.com/gustavosenamp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavosenamp&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavosenamp&show_icons=true&theme=radical" />
 </a>
 <br>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosenamp&theme=buefy&hide_langs_below=1" />
+<a href="https://github.com/gustavosenamp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosenamp&langs_count=8&theme=radical" />
 </a>
 
 
