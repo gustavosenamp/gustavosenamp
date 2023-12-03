@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center"> I am a Systems Analysis and Development student at Fatec SJC.</h3>
   
-- 🌱 I’m currently learning JAVA, React and JavaScript
+- 🌱 I’m currently learning JAVA, React, JavaScript and TypeScript
 
 - 📫 How to reach me **gustavosena07052005@gmail.com**
 
