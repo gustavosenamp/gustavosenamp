@@ -10,12 +10,78 @@
 <p align="left">
 </p>
 
+##
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,cs,cpp,java,python,flask,mysql,aws,vercel,godot,unity,idea,vscode&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,cs,java,python,flask,mysql,aws,vscode&perline=4">
   </a>
 </p>
+
+<!--<p align="center"> 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+</a> 
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+</a> 
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+</a>
+
+</p>
+
+<p align="center"> 
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+</a>
+  
+
+
+
+<p align="center"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
+</a> 
+  
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+</a> 
+  
+<a href="https://java.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+</p>
+<p align="center"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" >
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">   
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</a>
+</p>
+
+
+</p>
+-->
 
 <h2 align="center">Stats</h2>
 <div align="center">
@@ -29,17 +95,6 @@
 </div>
 <hr/>
 
-
-<div style="display: inline_block align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-  
   ##
  
 <div> 
