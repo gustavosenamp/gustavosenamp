@@ -1,4 +1,4 @@
-### Olá, meu nome é  <strong>Gustavo Sena</strong> 👋
+### Hello, my name is <strong>Gustavo Sena</strong> 👋
 
 <hr>
 <h3 align="center"> I am a Systems Analysis and Development student at Fatec SJC.</h3>
@@ -94,10 +94,8 @@
 </a>
 </div>
 <hr/>
-
-  ##
  
-<div> 
+<div align="center"> 
    <a href="https://www.linkedin.com/in/gustavo-sena-577045232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/gustavosenamp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gustavosena07052005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
