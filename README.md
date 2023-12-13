@@ -15,7 +15,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,cs,java,python,flask,mysql,aws,vscode&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,cs,java,python,flask,mysql,aws,springboot&perline=4">
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">   
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a>
 
