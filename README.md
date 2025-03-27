@@ -1,9 +1,9 @@
 ### Hello, my name is <strong>Gustavo Sena</strong> 👋
 
 <hr>
-<h3 align="center"> I am a Systems Analysis and Development student at Fatec SJC.</h3>
+<h3 align="center"> I am a FullStack Developer</h3>
   
-- 🌱 I’m currently learning C#, .NET, JavaScript, TypeScript and React
+- 🌱 My stack C#, .NET, ASP.NET, SQL Server, JavaScript, TypeScript and React
 
 - 📫 How to reach me **gustavosena07052005@gmail.com**
 
